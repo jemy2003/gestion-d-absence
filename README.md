@@ -1,11 +1,11 @@
-## 🧠Système de Gestion de Présence par Reconnaissance Faciale
-# 📝 Description
+# 🧠Système de Gestion de Présence par Reconnaissance Faciale
+## 📝 Description
 
 Ce projet est une application web complète permettant de gérer les présences des étudiants ou employés à l’aide de la reconnaissance faciale.
 Le système capture le visage de chaque utilisateur, compare les traits avec la base de données existante et enregistre automatiquement la présence.
 Une interface web permet ensuite de visualiser, ajouter et gérer les enregistrements de présence.
 
-# ⚙️ Fonctionnalités
+## ⚙️ Fonctionnalités
 
 📸 Détection et reconnaissance faciale à partir de la caméra.
 
@@ -17,7 +17,7 @@ Une interface web permet ensuite de visualiser, ajouter et gérer les enregistre
 
 🗃️ Stockage des données dans une base MySQL via phpMyAdmin.
 
-# 🧩 Technologies utilisées
+## 🧩 Technologies utilisées
 
 Python — pour la détection et la reconnaissance faciale (OpenCV, face_recognition).
 
